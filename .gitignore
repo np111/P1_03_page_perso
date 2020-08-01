@@ -1,4 +1,4 @@
-#/dist        ## Note: dist is push so that observers can test the project more easily
+/dist
 
 # Intellij
 /.idea

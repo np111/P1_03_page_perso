@@ -1,5 +1,7 @@
 # P1_03_page_perso
 
+Live version is available at: <https://np111.github.io/P1_03_page_perso/>
+
 ## Development
 
 ```bash
