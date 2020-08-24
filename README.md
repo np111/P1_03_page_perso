@@ -1,4 +1,4 @@
-# P1_page_perso
+# Page Perso
 
 Live version is available at: <https://np111.github.io/P1_page_perso/>
 
